@@ -1,1 +1,3 @@
-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
+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 (Client Side)
+
+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 (Server Side)
