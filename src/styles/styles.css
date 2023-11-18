@@ -1,0 +1,15 @@
+.text-dark a {
+    color: black
+}
+
+.text-dark a:hover {
+    text-decoration: none;
+}
+
+.white-text a {
+    color: white
+}
+
+.white-text a:hover {
+    text-decoration: none;
+}

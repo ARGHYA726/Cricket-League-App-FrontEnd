@@ -1,0 +1,24 @@
+.primary {
+    color: orange;
+}
+
+.font-xl {
+    font-size: 3rem;
+}
+
+.carousel-item img {
+    width: 600px;
+    height: 300px;
+    margin: 0 auto;
+    padding: 0;
+}
+
+.carousel-cont{
+    background-color:#bae5fc6e;
+    /* padding: 20px; */
+}
+
+.jumbotron{
+    margin: 0 !important;
+    background-color:#bae5fc6e !important;
+}
